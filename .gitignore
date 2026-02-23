@@ -1,0 +1,5 @@
+.env
+data/hg38_chroms/
+data/gencode.v38.annotation.gtf.gz
+__pycache__/
+*.pyc
